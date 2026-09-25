@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Noveriks">GitHub</a>
+  <a href="https://github.com/noveriks">GitHub</a>
   ·
-  <a href="https://your-website.web.app">Website</a>
+  <a href="https://noveriks.com">Website</a>
   ·
-  <a href="https://discord.gg/YOUR_INVITE">Discord</a>
+  <a href="https://discord.gg/CykHx9GeAj">Discord</a>
 </p>
 
 ---
